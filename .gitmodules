@@ -1,0 +1,9 @@
+[submodule "Packages/EncodingHelper"]
+	path = Packages/EncodingHelper
+	url = https://github.com/SublimeText/EncodingHelper.git
+[submodule "Packages/EditorConfig"]
+	path = Packages/EditorConfig
+	url = https://github.com/sindresorhus/editorconfig-sublime.git
+[submodule "Packages/SublimeLinter"]
+	path = Packages/SublimeLinter
+	url = https://github.com/SublimeLinter/SublimeLinter.git

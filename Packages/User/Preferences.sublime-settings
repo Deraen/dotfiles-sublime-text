@@ -13,7 +13,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"TernJS"
+		"TernJS",
+		"PyV8"
 	],
 	"match_brackets_angle": true,
 	"new_window_settings":
