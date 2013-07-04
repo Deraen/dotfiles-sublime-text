@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CMake",
+		"CoffeeScript",
+		"ColorPicker",
+		"Djaneiro",
+		"EditorConfig",
+		"EncodingHelper",
+		"FindKeyConflicts",
+		"Gist",
+		"Handlebars",
+		"HTML5",
+		"INI",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"Prolog",
+		"SCSS",
+		"ShaderLanguages",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeTODO",
+		"TernJS",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"WordCount"
+	],
+	"repositories":
+	[
+		"https://github.com/mrmartineau/jQuery",
+		"https://github.com/SublimeLinter/SublimeLinter.git"
+	]
+}

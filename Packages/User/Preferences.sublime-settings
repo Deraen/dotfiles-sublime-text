@@ -1,0 +1,33 @@
+{
+	"color_scheme": "Packages/User/Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_white_space": "all",
+	"fallback_encoding": "Western (ISO-8859-1)",
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12,
+	"highlight_trailing_spaces_color_name": "invalid",
+	"ignored_packages":
+	[
+		"Vintage",
+		"TernJS"
+	],
+	"match_brackets_angle": true,
+	"new_window_settings":
+	{
+		"show_tabs": false,
+		"status_bar_visible": true
+	},
+	"overlay_scroll_bars": "system",
+	"rulers":
+	[
+		80
+	],
+	"shift_tab_unindent": false,
+	"sublimelinter": true,
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": false
+}

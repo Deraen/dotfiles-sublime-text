@@ -1,0 +1,6 @@
+Cache/
+Index/
+Local/
+Installed Packages/
+Packages/User/Package Control.cache/
+Packages/PyV8/*/*.so
