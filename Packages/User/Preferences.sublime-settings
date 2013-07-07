@@ -12,9 +12,9 @@
 	"highlight_trailing_spaces_color_name": "invalid",
 	"ignored_packages":
 	[
-		"Vintage",
+		"PyV8",
 		"TernJS",
-		"PyV8"
+		"Vintage"
 	],
 	"match_brackets_angle": true,
 	"new_window_settings":

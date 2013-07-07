@@ -7,3 +7,6 @@
 [submodule "Packages/SublimeLinter"]
 	path = Packages/SublimeLinter
 	url = https://github.com/SublimeLinter/SublimeLinter.git
+[submodule "Packages/SideBarEnchancements"]
+	path = Packages/SideBarEnchancements
+	url = https://github.com/titoBouzout/SideBarEnhancements.git
