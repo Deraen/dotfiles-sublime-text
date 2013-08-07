@@ -16,3 +16,6 @@
 [submodule "Packages/BracketHighlighter"]
 	path = Packages/BracketHighlighter
 	url = https://github.com/facelessuser/BracketHighlighter.git
+[submodule "Packages/Birds-of-Paradse"]
+	path = Packages/Birds-of-Paradse
+	url = https://github.com/jbergantine/Birds-of-Paradise-for-TextMate.git
