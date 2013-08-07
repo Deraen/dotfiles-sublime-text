@@ -5,25 +5,19 @@
 		"CMake",
 		"CoffeeScript",
 		"ColorPicker",
-		"EncodingHelper",
 		"FindKeyConflicts",
-		"Gist",
 		"Handlebars",
 		"HTML5",
 		"INI",
-		"jQuery",
 		"LESS",
 		"Package Control",
 		"Prolog",
 		"SCSS",
 		"ShaderLanguages",
-		"Stylus",
-		"SublimeLinter",
 		"SublimeTODO",
 		"TernJS",
 		"Theme - Soda",
-		"TrailingSpaces",
-		"WordCount"
+		"TrailingSpaces"
 	],
 	"repositories":
 	[
