@@ -5,3 +5,5 @@ Installed Packages/
 Packages/User/Package Control.cache/
 Packages/PyV8/*/*.so
 *.last-run
+*.ca-bundle
+*.ca-list
